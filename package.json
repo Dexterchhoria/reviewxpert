@@ -1,16 +1,17 @@
 {
-  "name": "chatroom",
+  "name": "original-website",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "socket.io": "^4.7.5"
+    "hbs": "^4.2.0",
+    "mongoose": "^8.3.2",
+    "nodemon": "^3.1.0"
   }
 }

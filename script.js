@@ -33,6 +33,19 @@ ScrollTrigger.refresh();
 }
 loco()
 
+// document.getElementById('notify-me').addEventListener('click', function(event) {
+//   // Prevent the default behavior of the button (e.g., form submission)
+//   event.preventDefault();
+
+//   // Check if the button is clicked when on page6
+//   if (window.location.hash === '#page6') {
+//       // If on page6, simply scroll to the top of the page
+//       window.scrollTo({ top: 0, behavior: 'smooth' });
+//   } else {
+//       // If not on page6, scroll to page6
+//       document.getElementById('page6').scrollIntoView({ behavior: 'smooth' });
+//   }
+// });
 
 
 
